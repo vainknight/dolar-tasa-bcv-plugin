@@ -1,12 +1,3 @@
-=== BCV Exchange Rate Widget ===
-Contributors: vainknight ft. claude code
-Tags: bcv, usd, venezuela, exchange rate, elementor, gutenberg
-Requires at least: 5.8
-Tested up to: 7.0
-Requires PHP: 7.4
-Stable tag: 1.0.0
-License: GPLv2
-
 Displays live BCV USD exchange rate (Venezuela), resilient to page caching (LiteSpeed/Cloudflare).
 
 == Description ==
